@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "D:\\HDD Primary Storage\\Projects\\Unity Projects\\TraffiQuest-Simulations-FYP\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "D:\\HDD Primary Storage\\Projects\\Unity Projects\\TraffiQuest-Simulations-FYP\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\GameActivity\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\HDD Primary Storage\\Game Dev Software\\Unity Editor\\6000.2.7f2\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "D:\\HDD Primary Storage\\Projects\\Unity Projects\\TraffiQuest-Simulations-FYP\\.utmp\\Debug\\b2a1y6h1\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\HDD Primary Storage\\Game Dev Software\\Unity Editor\\6000.2.7f2\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "D:\\HDD Primary Storage\\Projects\\Unity Projects\\TraffiQuest-Simulations-FYP\\.utmp\\Debug\\b2a1y6h1\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "artifactName": "game",
+      "abi": "armeabi-v7a",
+      "output": "D:\\HDD Primary Storage\\Projects\\Unity Projects\\TraffiQuest-Simulations-FYP\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\Debug\\b2a1y6h1\\obj\\armeabi-v7a\\libgame.so",
+      "runtimeFiles": []
+    }
+  }
+}

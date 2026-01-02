@@ -1,0 +1,21 @@
+                        -HD:\HDD Primary Storage\Projects\Unity Projects\TraffiQuest-Simulations-FYP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_PLATFORM=android-23
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=D:\HDD Primary Storage\Game Dev Software\Unity Editor\6000.2.7f2\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+-DCMAKE_ANDROID_NDK=D:\HDD Primary Storage\Game Dev Software\Unity Editor\6000.2.7f2\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
+-DCMAKE_TOOLCHAIN_FILE=D:\HDD Primary Storage\Game Dev Software\Unity Editor\6000.2.7f2\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\HDD Primary Storage\Game Dev Software\Unity Editor\6000.2.7f2\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\HDD Primary Storage\Projects\Unity Projects\TraffiQuest-Simulations-FYP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\b2a1y6h1\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\HDD Primary Storage\Projects\Unity Projects\TraffiQuest-Simulations-FYP\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\Debug\b2a1y6h1\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_FIND_ROOT_PATH=D:\HDD Primary Storage\Projects\Unity Projects\TraffiQuest-Simulations-FYP\.utmp\Debug\b2a1y6h1\prefab\armeabi-v7a\prefab
+-BD:\HDD Primary Storage\Projects\Unity Projects\TraffiQuest-Simulations-FYP\.utmp\Debug\b2a1y6h1\armeabi-v7a
+-GNinja
+-DANDROID_STL=c++_shared
+-DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES=ON
+                        Build command args: []
+                        Version: 2

@@ -1,0 +1,10 @@
+# ninja log v5
+64	16815	7830883565963580	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	298abe05acf74917
+53	16992	7830883566103565	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e81d3cefd364ee26
+21	17291	7830883567063589	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e6cd24bc96ee3bcb
+33	17533	7830883574614077	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	7bc7a4f02fa14680
+76	19738	7830883595250896	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f5e666d71108e236
+3	20406	7830883602440876	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	65b8c61b8dc38961
+17197	30254	7830883701750138	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7cb3d04cfa3a9ac9
+16834	32441	7830883723776466	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	ee571d1dfba5ab16
+32443	33460	7830883736968477	D:/HDD Primary Storage/Projects/Unity Projects/TraffiQuest-Simulations-FYP/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/b2a1y6h1/obj/arm64-v8a/libgame.so	9bf051d98f4e808e
