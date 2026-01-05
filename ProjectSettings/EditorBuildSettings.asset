@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Scene.unity
+    path: Assets/Scenes/Sim 1.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Sim 2.unity
+    guid: f238bae53a41e474ba714c0f445cfcd6
+  - enabled: 1
+    path: Assets/Scenes/Sim 3.unity
+    guid: 6437ce89413413e47a04f1e561bcf6b7
+  - enabled: 1
+    path: Assets/Scenes/Sim 4.unity
+    guid: 21beb562f9e1c0c40b43f9e5236cb47a
+  - enabled: 1
+    path: Assets/Scenes/Sim 5.unity
+    guid: 976b40f6cf140a24e9cf45d8f7bddd94
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 6790366b7de9ae24bb842e377bf1817e, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

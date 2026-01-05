@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Looped Sim 5
+  m_Controller: {fileID: 9100000, guid: 94021955ea5a6a14098d0dfb97647cba, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f339b2f944ab8374e9f67d9b14df7e45, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2942bda2e369ee842837a13cd9afa71b, type: 2}

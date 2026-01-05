@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -22,6 +23,7 @@ public class UIHandeler : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     [SerializeField] private Image[] cameraImges;
     [SerializeField] private Sprite cameraActiveSprite;
     [SerializeField] private Sprite cameraInactiveSprite;
+    public TMP_Text speedBtnText;
 
     // Other scripts
     [Header("Other Scripts")]
@@ -108,7 +110,7 @@ public class UIHandeler : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
     }
     private void UpdateSimulationSlider()//updating every frame
     {
-        if (isDraggingSlider) return;
+        if (isDraggingSlider || simulationController.isLooped == false) return;
 
         var info = simulationController.animator.GetCurrentAnimatorStateInfo(0);
         Debug.Log(info.normalizedTime % 1f);

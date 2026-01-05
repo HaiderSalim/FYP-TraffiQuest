@@ -5,7 +5,7 @@ public class FreeMovementCamera : MonoBehaviour
     [Header("Camera Parameters")]
     [SerializeField] private Vector2 Turn;
     [SerializeField, Range(0.1f, 5f)] private float Sensitivity = 2f;
-    [SerializeField, Range(0.1f, 10f)] private float camSpeed = 0.5f;
+    [SerializeField, Range(0.1f, 10f)] private float camSpeed = 2.0f;
 
     // Input System
     private InputSystem_Actions controls;

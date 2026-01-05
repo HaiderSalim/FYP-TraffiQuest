@@ -26,7 +26,7 @@ public class SimulationController : MonoBehaviour
     [SerializeField] private UIHandeler uiHandeler;
 
     // Constents
-    public const string STATE_NAME = "Main Simulation";
+    public const string STATE_NAME = "Sim";
 
     private void Start()
     {
@@ -50,6 +50,7 @@ public class SimulationController : MonoBehaviour
         isPaused = false;
         simSpeed = speed;
         animator.speed = simSpeed;
+        uiHandeler.speedBtnText.text = $"{simSpeed}x";
     }
     public void ChangeLoopStatus()
     {
